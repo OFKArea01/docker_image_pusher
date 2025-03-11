@@ -1,4 +1,5 @@
-nginx
+node:22-alpine
+#nginx
 #greptime/greptimedb-operator:v0.1.4-alpha.3
 #postgres:15-alpine
 #ghcr.io/requarks/wiki:2
